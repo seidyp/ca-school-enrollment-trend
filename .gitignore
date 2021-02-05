@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # Ignore files that may include API keys
-config.py/
+config.py
 
 # Ignore Mac hidden files
 .DS_Store/
