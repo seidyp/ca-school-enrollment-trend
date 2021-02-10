@@ -130,6 +130,7 @@ dmypy.json
 
 # Ignore files that may include API keys
 config.py
+config2.py
 
 # Ignore Mac hidden files
 .DS_Store/
