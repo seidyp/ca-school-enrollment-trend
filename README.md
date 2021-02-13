@@ -26,9 +26,18 @@ Census Data API User Guide can be found [API User Guide] (https://www.census.gov
 - Team Enrollment 
 - [x] Pull data from 2015-2019 
 - [x] Merge all data together by school district code
+- [x] Clean data
 - Team Employment
 - [x] Pull data via API from 2015-2019 including 3 school types: Unified, Elementary, and Secondary
 - [x] Merge yearly data all together 
-- [x] Merge 
+- [x] Merge all datas together
+- [x] Clean data
+- Together
+1. Combine both employment and enrollment data
+2. Find trends
+3. Plot line graphs and scatter plot to find and explain trends
+
+## Analysis
+By find o
 
 
