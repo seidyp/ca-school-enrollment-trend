@@ -43,7 +43,7 @@ After extracting, cleaning, and merging the data, we were able to conclude that 
 ![Alt text](Visualization/LAUSD_enrollment_trend.png?raw=true "LAUSD Enrollment Trends")
 First, we graphed Los Angeles school district from 2015-2019. It shows us a significant decrease of school enrollments.
 
-![Alt text](Visualization/LAUSD_enrollment_unemployment.png?raw=true "ca_average_percent_change")
+![Alt text](Visualization/LAUSD_enrollchange_unemployment.png?raw=true "ca_average_percent_change")
 
 Secondly, we graphed the average percent change throughout the years. As the graph shown above, it indicates the average overall school enrollment decreases as well. 
 
