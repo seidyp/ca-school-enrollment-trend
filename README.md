@@ -53,9 +53,7 @@ Secondly, we graphed the average percent change throughout the years. As the gra
 ![Alt text](Visualization/LAUSD_enrollchange_unemployment.png?raw=true "ca_average_percent_change")
 
 
-However, when plotting the enrollment rates and unemployment rates together. We found that the using a linear regression the correlation coefficient to be 0.05. This shows a weak positive correlation between unemployment rate and total enrollment by district. 
-
-![Alt text](Visualization/unemp_vs_yoy_enroll_change.png?raw=true "correlation")
+However, when plotting the enrollment rates and unemployment rates together. We found that the using a linear regression the correlation coefficient to be 0.05 (first table). This shows a weak positive correlation between unemployment rate and total enrollment by district. 
 
 ## Next Steps
 
