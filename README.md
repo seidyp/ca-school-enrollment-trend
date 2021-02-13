@@ -40,7 +40,7 @@ Census Data API User Guide can be found [API User Guide] (https://www.census.gov
 ## Final Analysis
 After extracting, cleaning, and merging the data, we were able to conclude that the two . 
 
-![Alt text](ca-school-enrollment-trend/Visualization/LAUSD_enrollment_trend.png?raw=true "LAUSD Enrollment Trends")
+![Alt text](Visualization/LAUSD_enrollment_trend.png?raw=true "LAUSD Enrollment Trends")
 
 
 
