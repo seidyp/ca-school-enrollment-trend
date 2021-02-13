@@ -39,6 +39,7 @@ Census Data API User Guide can be found [API User Guide] (https://www.census.gov
 
 ## Final Analysis
 After pulling, cleaning, and combining the data, we were able to get an overview of the trends of LAUSD (Los Angeles Unified School District). 
+
 ![Alt text](ca-school-enrollment-trend/Visualization/LAUSD_enrollment_trend.png?raw=true "Optional Title")
 
 
