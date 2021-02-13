@@ -44,9 +44,11 @@ After extracting, cleaning, and merging the data, we were able to conclude that 
 First, we graphed Los Angeles school district from 2015-2019. It shows us a significant decrease of school enrollments.
 
 ![Alt text](Visualization/LAUSD_enrollment_unemployment.png?raw=true "ca_average_percent_change")
+
 Secondly, we graphed the average percent change throughout the years. As the graph shown above, it indicates the average overall school enrollment decreases as well. 
 
 However, when plotting the enrollment rates and unemployment rates together. We found that the using a linear regression the correlation coefficient to be 0.05. This shows a weak positive correlation between unemployment rate and total enrollment by district. 
+
 ![Alt text](Visualization/unemp_vs_yoy_enroll_change.png?raw=true "correlation")
 
 ## Next Steps
