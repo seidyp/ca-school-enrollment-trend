@@ -19,7 +19,9 @@ Did you know California school enrollment rates in LA have decreased significant
   
 ## Sources and Libraries 
 Enrollment data was pulled and built upon [California School Districts] (https://www.greatschools.org/schools/districts/California/CA/)
+
 Employment data was pulled and built upon [Census API] (https://data.census.gov/cedsci/table?q=employment&g=0400000US06,06.960000,06.970000&tid=ACSST1Y2014.S2301&hidePreview=true)
+
 Census Data API User Guide can be found [API User Guide] (https://www.census.gov/content/dam/Census/data/developers/api-user-guide/api-guide.pdf)
 
 ## Our Divide and Conquer Strategy 
