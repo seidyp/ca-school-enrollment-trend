@@ -53,7 +53,7 @@ However, when plotting the enrollment rates and unemployment rates together. We 
 
 ## Next Steps
 
-Oh, bummer! Unemployment rates are not the best factor to correlate with enrollment rates. 
+Oh, bummer! Unemployment rates are not the best factor to correlate with enrollment rates for datasets in California from 2015-2019. 
 
 If you are interested in this enrollment data, things you may want to consider.
 1. Other economic factors such as CPI
