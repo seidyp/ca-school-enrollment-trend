@@ -53,8 +53,14 @@ However, when plotting the enrollment rates and unemployment rates together. We 
 
 ## Next Steps
 
-After we found out that unemployment rates are not the best factor to correlate with enrollment rates. 
-We decided on finding another economic factor such as CPI. 
+Oh, bummer! Unemployment rates are not the best factor to correlate with enrollment rates. 
+
+If you are interested in this enrollment data, things you may want to consider.
+1. Other economic factors such as CPI
+2. Whether you want to add 2020 (COVID year)
+3. Adding private schools to public schools
+
+## Hope you enjoyed the project as much as we did!
 
 
 
