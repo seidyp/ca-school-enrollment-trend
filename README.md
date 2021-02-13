@@ -39,7 +39,7 @@ Census Data API User Guide can be found [API User Guide] (https://www.census.gov
 
 ## Final Analysis
 After pulling, cleaning, and combining the data, we were able to get an overview of the trends of LAUSD (Los Angeles Unified School District). 
-
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 
 
 
