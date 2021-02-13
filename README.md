@@ -32,7 +32,8 @@ Census Data API User Guide can be found [API User Guide] (https://www.census.gov
 - [x] Merge yearly data all together 
 - [x] Merge all datas together
 - [x] Clean data
-- Together
+
+##### Combining, Plotting, and Analysis
 1. Combine both employment and enrollment data
 2. Find trends
 3. Plot line graphs and scatter plot to find and explain trends
