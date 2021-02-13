@@ -35,10 +35,12 @@ Census Data API User Guide can be found [API User Guide] (https://www.census.gov
 
 ##### Combining, Plotting, and Analysis
 1. Combine both employment and enrollment data
-2. Find trends
-3. Plot line graphs and scatter plot to find and explain trends
+2. Plot line graphs and scatter plot to find trends
 
-## Analysis
-By find o
+## Final Analysis
+After pulling, cleaning, and combining the data, we were able to get an overview of the trends of LAUSD (Los Angeles Unified School District). 
+
+
+
 
 
