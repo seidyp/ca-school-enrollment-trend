@@ -23,12 +23,12 @@ Employment data was pulled and built upon [Census API] (https://data.census.gov/
 Census Data API User Guide can be found [API User Guide] (https://www.census.gov/content/dam/Census/data/developers/api-user-guide/api-guide.pdf)
 
 ## Our Divide and Conquer Strategy 
-Team Enrollment 
-1. Pull data from 2015-2019 
-2. Merge all data together by school district code
-Team Employment
-1. Pull data via API from 2015-2019 including 3 school types: Unified, Elementary, and Secondary
-2. Merge yearly data all together 
-3. Merge 
+1. Team Enrollment 
+[x] Pull data from 2015-2019 
+[x] Merge all data together by school district code
+2. Team Employment
+[x] Pull data via API from 2015-2019 including 3 school types: Unified, Elementary, and Secondary
+[x] Merge yearly data all together 
+[x] Merge 
 
 
