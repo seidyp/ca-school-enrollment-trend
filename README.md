@@ -38,9 +38,10 @@ Census Data API User Guide can be found [API User Guide] (https://www.census.gov
 2. Plot line graphs and scatter plot to find trends
 
 ## Final Analysis
-After pulling, cleaning, and combining the data, we were able to get an overview of the trends of LAUSD (Los Angeles Unified School District). 
+After extracting, cleaning, and merging the data, we were able to conclude that the two . 
 
-![Alt text](ca-school-enrollment-trend/Visualization/LAUSD_enrollment_trend.png?raw=true "Optional Title")
+![Alt text](ca-school-enrollment-trend/Visualization/LAUSD_enrollment_trend.png?raw=true "LAUSD Enrollment Trends")
+
 
 
 
